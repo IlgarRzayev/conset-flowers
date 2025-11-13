@@ -3,7 +3,7 @@ export default function Products() {
     { 
       id: 1, 
       name: "Mavi Gül Buketi", 
-      img: "/mavi_gul.jpeg", 
+      img: "/images/mavi_gul.jpeg", 
       desc: "Mavi güller.",
       price: "300 TL"
     },
