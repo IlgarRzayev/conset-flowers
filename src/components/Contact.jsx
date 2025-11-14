@@ -32,10 +32,8 @@ export default function Contact() {
     <section id="contact" className="container py-5">
       <div className="row justify-content-center">
         <div className="col-lg-8">
-          <h2 className="text-center text-success mb-2">İletişim</h2>
-          <p className="text-center text-muted mb-5">
-            Bize ulaşın, en kısa sürede dönüş yapalım
-          </p>
+          <h2 className="text-center text-success mb-5">İletişim</h2>
+          
 
           {status && (
             <div
@@ -91,4 +89,5 @@ export default function Contact() {
       </div>
     </section>
   );
+
 }
