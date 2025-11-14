@@ -83,13 +83,13 @@ http://localhost:5173
 ![Hero Section](/images/hero_section.png)
 
 ### 🛍 Ürünler Bölümü
-![Products Section](/images/products.png)
+![Products Section](/images/products_section.png)
 
 ### ℹ️ Hakkımızda Bölümü
-![About Section](/images/about.png)
+![About Section](/images/about_section.png)
 
 ###  İletişim Bölümü
-![Contact Section](/images/contact.png)
+![Contact Section](/images/contact_section.png)
 
 ##  Proje Yapısı
 ```bash
