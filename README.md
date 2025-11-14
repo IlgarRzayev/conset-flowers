@@ -82,7 +82,7 @@ http://localhost:5173
 
 1. XAMPP'ı kurun ve başladın
 2. Apache ve MySQL'i çalıştırın
-3. backend/ klasörünü kopyala: ```C:\xampp\htdocs\conset-backend\ ```
+3. backend/ klasörünü kopyalayın: ```C:\xampp\htdocs\conset-backend\ ```
 
 
 ### C. Veritabanı Kurulumu:
@@ -90,10 +90,28 @@ http://localhost:5173
 1. Tarayıcıda açın: ```bash http://localhost/phpmyadmin ```
 2. Yeni veritabanı oluşturun: ```bash conset_flowers```
 3. SQL kodunu çalıştırın:
-```bash CREATE TABLE contact (
+```bash 
+    CREATE TABLE contact (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100) NOT NULL,
     email VARCHAR(150) NOT NULL,
     message TEXT NOT NULL
 );
 ```
+
+##  Ekran Görüntüleri
+
+###  Hero Bölümü
+![Hero Section](/screenshots/hero.png)
+
+### 🛍 Ürünler Bölümü
+![Products Section](/screenshots/products.png)
+
+### ℹ️ Hakkımızda Bölümü
+![About Section](/screenshots/about.png)
+
+###  İletişim Bölümü
+![Contact Section](/screenshots/contact.png)
+
+###  Mobil Görünüm
+![Mobile View](/screenshots/mobile.png)
