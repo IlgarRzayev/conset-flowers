@@ -29,7 +29,7 @@ conset-flowers/
 │ │ │ └── Contact.jsx
 │ │ ├── App.jsx
 │ │ └── main.jsx
-| | └── index.css 
+│ │ └── index.css 
 │ ├── public/
 │ └── package.json
 ├── backend/ 
