@@ -82,10 +82,10 @@ http://localhost:5173
 ###  Hero Bölümü
 ![Hero Section](/images/hero_section.png)
 
-### 🛍 Ürünler Bölümü
+###  Ürünler Bölümü
 ![Products Section](/images/products_section.png)
 
-### ℹ️ Hakkımızda Bölümü
+###  Hakkımızda Bölümü
 ![About Section](/images/about_section.png)
 
 ###  İletişim Bölümü
