@@ -16,31 +16,9 @@ Bu proje, modern frontend ve backend teknolojileri kullanılarak geliştirilmiş
 - **PDO** 
 - **RESTful API** 
 
-##  Proje Yapısı
-```bash
-conset-flowers/
-├── frontend/ 
-│ ├── src/
-│ │ ├── components/
-│ │ │ ├── Navbar.jsx
-│ │ │ ├── Hero.jsx
-│ │ │ ├── Products.jsx
-│ │ │ ├── About.jsx
-│ │ │ └── Contact.jsx
-│ │ ├── App.jsx
-│ │ └── main.jsx
-│ │ └── index.css 
-│ ├── public/
-│ └── package.json
-├── backend/ 
-│ ├── contact.php 
-│ └── db.php 
-└── README.md
-```
 
-## Canlı Demo 
 
-https://conset-flowers.vercel.app
+
 
 ## Kurulum
 
@@ -105,13 +83,38 @@ http://localhost:5173
 ![Hero Section](/images/hero_section.png)
 
 ### 🛍 Ürünler Bölümü
-![Products Section](/screenshots/products.png)
+![Products Section](/images/products.png)
 
 ### ℹ️ Hakkımızda Bölümü
-![About Section](/screenshots/about.png)
+![About Section](/images/about.png)
 
 ###  İletişim Bölümü
-![Contact Section](/screenshots/contact.png)
+![Contact Section](/images/contact.png)
 
-###  Mobil Görünüm
-![Mobile View](/screenshots/mobile.png)
+##  Proje Yapısı
+```bash
+conset-flowers/
+├── frontend/ 
+│ ├── src/
+│ │ ├── components/
+│ │ │ ├── Navbar.jsx
+│ │ │ ├── Hero.jsx
+│ │ │ ├── Products.jsx
+│ │ │ ├── About.jsx
+│ │ │ └── Contact.jsx
+│ │ ├── App.jsx
+│ │ └── main.jsx
+│ │ └── index.css 
+│ ├── public/
+│ └── package.json
+├── backend/ 
+│ ├── contact.php 
+│ └── db.php 
+└── README.md
+```
+
+
+## Canlı Demo 
+
+https://conset-flowers.vercel.app
+
