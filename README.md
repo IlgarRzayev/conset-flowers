@@ -102,7 +102,7 @@ http://localhost:5173
 ##  Ekran Görüntüleri
 
 ###  Hero Bölümü
-![Hero Section](/screenshots/hero.png)
+![Hero Section](/images/hero_section.png)
 
 ### 🛍 Ürünler Bölümü
 ![Products Section](/screenshots/products.png)
